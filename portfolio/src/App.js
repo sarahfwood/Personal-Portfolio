@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Sarah Wood</h1>
-      <p>Personal Portfolio</p>
+      <h2>Personal Portfolio</h2>
+      <navbar></navbar>
     </div>
   );
 }
