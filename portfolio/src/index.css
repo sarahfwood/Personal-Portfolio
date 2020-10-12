@@ -6,3 +6,7 @@ body {
   background-image: url('./imgs/trianglify-lowres.png');
   background-size: cover;
 }
+
+ul {
+  list-style: none;
+}
