@@ -11,16 +11,16 @@ function App() {
       <navbar>
         <ul>
           <li>
-          <a href="About">About Me</a>
+          <a href="#about">About Me</a>
           </li>
           <li>
-          <a href="Projects">Projects</a>
+          <a href="#projects">Projects</a>
           </li>
           <li>
-          <a href="Skills">Skills</a>
+          <a href="#skills">Skills</a>
           </li>
           <li>
-          <a href="Contact">Contact</a>
+          <a href="#contact">Contact</a>
           </li>
         </ul>
       </navbar>
