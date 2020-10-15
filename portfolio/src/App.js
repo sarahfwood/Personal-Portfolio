@@ -11,16 +11,16 @@ function App() {
       <navbar>
         <ul>
           <li>
-            About Me
+          <a href=""></a>
           </li>
           <li>
-            Projects
+          <a href=""></a>
           </li>
           <li>
-            Skills
+          <a href=""></a>
           </li>
           <li>
-            Blog
+          <a href=""></a>
           </li>
         </ul>
       </navbar>
