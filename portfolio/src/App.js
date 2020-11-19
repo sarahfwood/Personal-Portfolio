@@ -5,29 +5,28 @@ import LandingPage from './components/LandingPage';
 
 function App() {
   return (
-    <LandingPage />
-    // <div className="App">
-    //   <section id="intro">
-    //   <h1>Sarah Wood</h1>
-    //   <h2>Personal Portfolio</h2>
-    //   <navbar>
-    //     <ul>
-    //       <li>
-    //       <a href="#about">About Me</a>
-    //       </li>
-    //       <li>
-    //       <a href="#projects">Projects</a>
-    //       </li>
-    //       <li>
-    //       <a href="#skills">Skills</a>
-    //       </li>
-    //       <li>
-    //       <a href="#contact">Contact</a>
-    //       </li>
-    //     </ul>
-    //   </navbar>
-    //   </section>
-    // </div>
+    <div className="App">
+      <section id="intro">
+      <h1>Sarah Wood</h1>
+      <h2>Personal Portfolio</h2>
+      <navbar>
+        <ul>
+          <li>
+          <a href="#about">About Me</a>
+          </li>
+          <li>
+          <a href="#projects">Projects</a>
+          </li>
+          <li>
+          <a href="#skills">Skills</a>
+          </li>
+          <li>
+          <a href="#contact">Contact</a>
+          </li>
+        </ul>
+      </navbar>
+      </section>
+    </div>
     
   );
 }
