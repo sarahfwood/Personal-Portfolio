@@ -58,8 +58,8 @@
 
 #menu {
   position: fixed;
-  left: 0;
-  top: 5%;
+  left: 10;
+  top: 2%;
   /* width: 8em;
   margin-top: -2.5em; */
 }
