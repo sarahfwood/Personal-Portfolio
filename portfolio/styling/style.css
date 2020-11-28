@@ -60,10 +60,16 @@
   position: fixed;
   left: 0;
   top: 5%;
-  width: 8em;
-  margin-top: -2.5em;
+  /* width: 8em;
+  margin-top: -2.5em; */
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar-menu {
-  
+  display: inline;
 }
