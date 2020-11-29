@@ -90,3 +90,8 @@ a {
 .navbar-link {
   color: white;
 }
+
+.navbar-link:hover, .navbar-link:active {
+  background-color: white;
+  color: black;
+}
