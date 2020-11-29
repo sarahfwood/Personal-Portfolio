@@ -94,4 +94,6 @@ a {
 .navbar-link:hover, .navbar-link:active {
   background-color: white;
   color: black;
+  padding: 10px 5px 10px 5px;
+  border-radius: 10%;
 }
