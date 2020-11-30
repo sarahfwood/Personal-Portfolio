@@ -81,9 +81,6 @@ body {
   padding-right: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
-  box-sizing: border-box;
-  width: 30px;
-  height: 15px;
 }
 
 a {
@@ -101,6 +98,4 @@ a {
   padding-right: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
-  width: 30px;
-  height: 15px;
 }
