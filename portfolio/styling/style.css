@@ -103,3 +103,9 @@ a {
 .icon {
   height: 40px;
 }
+
+.project-grid-listing {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
