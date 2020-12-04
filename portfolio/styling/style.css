@@ -108,4 +108,15 @@ a {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: 15px;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
 }
