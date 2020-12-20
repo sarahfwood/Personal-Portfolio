@@ -109,7 +109,7 @@ a {
   width: 33%;
 }
 
-input[type=text], textarea {
+input[type=text], input[type=email], textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid black;
@@ -124,4 +124,8 @@ input[type=submit] {
   padding: 12px 20px;
   border: none;
   cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: turquoise;
 }
